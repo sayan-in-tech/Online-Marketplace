@@ -1,0 +1,14 @@
+.vscode
+.venv
+__pycache__
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.egg-info
+*.egg
+*.whl
+*.coverage
+*.cover
